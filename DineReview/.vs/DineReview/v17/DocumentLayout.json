@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zubash\\GitHub\\DineReview\\DineReview\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDD7626-A38C-4497-92AB-08DBC2D31DA6}|DineReview\\DineReview.csproj|c:\\users\\zubash\\github\\dinereview\\dinereview\\dinereview\\models\\cousine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDD7626-A38C-4497-92AB-08DBC2D31DA6}|DineReview\\DineReview.csproj|solutionrelative:dinereview\\models\\cousine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDD7626-A38C-4497-92AB-08DBC2D31DA6}|DineReview\\DineReview.csproj|c:\\users\\zubash\\github\\dinereview\\dinereview\\dinereview\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDD7626-A38C-4497-92AB-08DBC2D31DA6}|DineReview\\DineReview.csproj|solutionrelative:dinereview\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDD7626-A38C-4497-92AB-08DBC2D31DA6}|DineReview\\DineReview.csproj|c:\\users\\zubash\\github\\dinereview\\dinereview\\dinereview\\models\\dishcousine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDD7626-A38C-4497-92AB-08DBC2D31DA6}|DineReview\\DineReview.csproj|solutionrelative:dinereview\\models\\dishcousine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDD7626-A38C-4497-92AB-08DBC2D31DA6}|DineReview\\DineReview.csproj|c:\\users\\zubash\\github\\dinereview\\dinereview\\dinereview\\models\\dishrestaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDD7626-A38C-4497-92AB-08DBC2D31DA6}|DineReview\\DineReview.csproj|solutionrelative:dinereview\\models\\dishrestaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDD7626-A38C-4497-92AB-08DBC2D31DA6}|DineReview\\DineReview.csproj|c:\\users\\zubash\\github\\dinereview\\dinereview\\dinereview\\models\\restraunt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDD7626-A38C-4497-92AB-08DBC2D31DA6}|DineReview\\DineReview.csproj|solutionrelative:dinereview\\models\\restraunt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDD7626-A38C-4497-92AB-08DBC2D31DA6}|DineReview\\DineReview.csproj|c:\\users\\zubash\\github\\dinereview\\dinereview\\dinereview\\models\\reviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDD7626-A38C-4497-92AB-08DBC2D31DA6}|DineReview\\DineReview.csproj|solutionrelative:dinereview\\models\\reviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDD7626-A38C-4497-92AB-08DBC2D31DA6}|DineReview\\DineReview.csproj|c:\\users\\zubash\\github\\dinereview\\dinereview\\dinereview\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDD7626-A38C-4497-92AB-08DBC2D31DA6}|DineReview\\DineReview.csproj|solutionrelative:dinereview\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDD7626-A38C-4497-92AB-08DBC2D31DA6}|DineReview\\DineReview.csproj|c:\\users\\zubash\\github\\dinereview\\dinereview\\dinereview\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDD7626-A38C-4497-92AB-08DBC2D31DA6}|DineReview\\DineReview.csproj|solutionrelative:dinereview\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Zubash\\GitHub\\DineReview\\DineReview\\DineReview\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "DineReview\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Zubash\\GitHub\\DineReview\\DineReview\\DineReview\\Data\\DataContext.cs",
+              "RelativeToolTip": "DineReview\\Data\\DataContext.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAUwBEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T16:39:44.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DishCousine.cs",
+              "DocumentMoniker": "C:\\Users\\Zubash\\GitHub\\DineReview\\DineReview\\DineReview\\Models\\DishCousine.cs",
+              "RelativeDocumentMoniker": "DineReview\\Models\\DishCousine.cs",
+              "ToolTip": "C:\\Users\\Zubash\\GitHub\\DineReview\\DineReview\\DineReview\\Models\\DishCousine.cs",
+              "RelativeToolTip": "DineReview\\Models\\DishCousine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T16:19:49.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cousine.cs",
+              "DocumentMoniker": "C:\\Users\\Zubash\\GitHub\\DineReview\\DineReview\\DineReview\\Models\\Cousine.cs",
+              "RelativeDocumentMoniker": "DineReview\\Models\\Cousine.cs",
+              "ToolTip": "C:\\Users\\Zubash\\GitHub\\DineReview\\DineReview\\DineReview\\Models\\Cousine.cs",
+              "RelativeToolTip": "DineReview\\Models\\Cousine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T16:19:17.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DishRestaurant.cs",
+              "DocumentMoniker": "C:\\Users\\Zubash\\GitHub\\DineReview\\DineReview\\DineReview\\Models\\DishRestaurant.cs",
+              "RelativeDocumentMoniker": "DineReview\\Models\\DishRestaurant.cs",
+              "ToolTip": "C:\\Users\\Zubash\\GitHub\\DineReview\\DineReview\\DineReview\\Models\\DishRestaurant.cs",
+              "RelativeToolTip": "DineReview\\Models\\DishRestaurant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T16:19:01.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Restraunt.cs",
+              "DocumentMoniker": "C:\\Users\\Zubash\\GitHub\\DineReview\\DineReview\\DineReview\\Models\\Restraunt.cs",
+              "RelativeDocumentMoniker": "DineReview\\Models\\Restraunt.cs",
+              "ToolTip": "C:\\Users\\Zubash\\GitHub\\DineReview\\DineReview\\DineReview\\Models\\Restraunt.cs",
+              "RelativeToolTip": "DineReview\\Models\\Restraunt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T16:18:16.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reviewer.cs",
+              "DocumentMoniker": "C:\\Users\\Zubash\\GitHub\\DineReview\\DineReview\\DineReview\\Models\\Reviewer.cs",
+              "RelativeDocumentMoniker": "DineReview\\Models\\Reviewer.cs",
+              "ToolTip": "C:\\Users\\Zubash\\GitHub\\DineReview\\DineReview\\DineReview\\Models\\Reviewer.cs",
+              "RelativeToolTip": "DineReview\\Models\\Reviewer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T16:17:43.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\Zubash\\GitHub\\DineReview\\DineReview\\DineReview\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "DineReview\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\Zubash\\GitHub\\DineReview\\DineReview\\DineReview\\Models\\Review.cs",
+              "RelativeToolTip": "DineReview\\Models\\Review.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T16:16:41.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "C:\\Users\\Zubash\\GitHub\\DineReview\\DineReview\\DineReview\\Models\\Dish.cs",
+              "RelativeDocumentMoniker": "DineReview\\Models\\Dish.cs",
+              "ToolTip": "C:\\Users\\Zubash\\GitHub\\DineReview\\DineReview\\DineReview\\Models\\Dish.cs",
+              "RelativeToolTip": "DineReview\\Models\\Dish.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T16:04:43.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
